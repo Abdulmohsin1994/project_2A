@@ -12,13 +12,13 @@ This is a quick implementation of  to-do lists. Every to-do item is an "Issue" b
 Javascript (react)
 
 ### Features
-To-do lists management
-Enter To-do items as simple as: type, enter, type, enter
-Select a day for your task
-Mark completed tasks
-Delete all list
-Delete only completed tasks 
-Delete one item at a time
+* To-do lists management
+* Enter To-do items as simple as: type, enter, type, enter
+* Select a day for your task
+* Mark completed tasks
+* Delete all list
+* Delete only completed tasks 
+* Delete one item at a time
 
 ## Note
 
